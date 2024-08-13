@@ -13,3 +13,9 @@ h3, h4 {
     font-family: monospace;
     color: rgb(49, 48, 48);
 }
+
+@media only screen and (max-width: 600px) {
+    main {
+        margin-top: 50px;;
+    }
+}

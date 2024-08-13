@@ -72,3 +72,9 @@ a:hover {
 #section-1 a:hover {
     text-decoration: underline;
 }
+
+@media only screen and (max-width: 600px) {
+    main {
+        margin-top: 50px;;
+    }
+}
