@@ -1,0 +1,74 @@
+body {
+    padding: 0 5px;
+    background-color: silver;
+    display: flex;
+    justify-content: center;
+}
+main {
+    width: 300px;
+    margin-top: 25px;
+    border: 3px solid rgba(196, 120, 106, 0.678);
+    border-radius: 5px;
+    padding: 50px 30px;
+    background-color: rgba(83, 79, 72, 0.445);
+    display: flex;
+    flex-direction: column;
+}
+
+
+/*--------------- home-page CSS --------------*/
+h2 {
+    color: rgb(49, 48, 48);
+    font-family: monospace;
+    font-size: 26px;
+    text-align: center;
+}
+input {
+    margin-top: 20px;
+    padding: 10px 8px;
+    border: 2px solid rgba(177, 106, 93, 0.842);
+    border-radius: 4px;
+    font-size: 17px;
+    font-weight: 600;
+    color: rgb(49, 48, 48);
+    font-family: sans-serif;
+}
+button {
+    padding: 8px;
+    margin-top: 24px;
+    border: 2px solid rgba(75, 71, 71, 0.842);
+    border-radius: 4px;
+    font-size: 19px;
+    font-family: monospace;
+    font-weight: 600;
+    color: rgb(49, 48, 48);
+}
+button:hover {
+    border: 2px solid rgb(77, 75, 75);
+    opacity: 85%;
+}
+section {
+    padding-right: 4px;
+}
+#section-1 {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+#section-2 {
+    margin-top: 45px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 19px;
+}
+a {
+    text-decoration: none;
+    color: rgb(43, 42, 42);
+    font-family: serif;
+}
+a:hover {
+    color: rgb(14, 13, 13);
+}
+#section-1 a:hover {
+    text-decoration: underline;
+}

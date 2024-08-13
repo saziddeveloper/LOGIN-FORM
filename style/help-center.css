@@ -1,0 +1,15 @@
+#section-2 {
+    display: flex;
+    justify-content: center;
+}
+main {
+    margin-top: 24px;
+    padding: 30px 30px;
+}
+h2 {
+    font-size: 21px;
+}
+h3, h4 {
+    font-family: monospace;
+    color: rgb(49, 48, 48);
+}
