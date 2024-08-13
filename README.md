@@ -1,5 +1,5 @@
-# LOGIN-FORM
-SIMPLE LOGIN FORM
+# LOGIN-PAGE
+SIMPLE LOGIN PAGE
 
 # Ashaduzzaman Sazid - Developer
 
